@@ -1,5 +1,5 @@
 # GLITCH
 
-# Student Details:
-Full Name: <Justin Cabillo> 
+# Student Details
+Full Name: Justin Cabillo
 CCID: <jcabillo>
